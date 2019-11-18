@@ -7,8 +7,8 @@ Effective header and footer graphics for Jupyter presentations by the Structural
 1. Run these lines in your notebook cell
 
 ```python
-!git clone https://github.com/callysto/notebook-templates.git
-!cd notebook-templates; cp -f banner_magics.py ~/.ipython/profile_default/startup
+!git clone https://github.com/yohanderose/LoopStructNotebooks.git
+!cd LoopStructNotebooks; cp -f banner_magics.py ~/.ipython/profile_default/startup; cp -f loop-struct-header.png ~/.ipython/profile_default/startup; cp -f loop-struct-foot.png ~/.ipython/profile_default/startup;
 ```
 
 2. Restart the notebook kernel, remove previous lines if you wish.
