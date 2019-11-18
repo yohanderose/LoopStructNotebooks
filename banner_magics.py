@@ -13,7 +13,6 @@ from IPython.display import SVG, Image, HTML
 def top_banner(line):
     r = Image("loop-struct-header.png")
     display(r)
-    hideCode()
     
 @register_line_magic
 def bottom_banner(line):
