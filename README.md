@@ -1,6 +1,6 @@
 # Loop Notebook Banners
 
-Effective headers and footer graphics for Jupyter presentations by the Structural Loopers. I strongly suggest hiding the default Jupyter headers in the 'view' dropdown tab when using these banners.
+Effective header and footer graphics for Jupyter presentations by the Structural Loopers. I strongly suggest hiding the default Jupyter headers in the 'view' dropdown tab when using these banners.
 
 ## How to Use
 
